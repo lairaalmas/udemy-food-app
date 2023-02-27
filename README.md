@@ -11,8 +11,9 @@ Guided project developed during the course [React - The Complete Guide (incl Hoo
 - Reactjs
   - useState
   - useEffect
-  - useRef
-  - forwardRef
   - useContext
   - useReducer
+  - forwardRef
+  - fragments
   - portals
+  - timeout
