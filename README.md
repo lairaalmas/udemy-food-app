@@ -1,4 +1,4 @@
-# Expense Tracker
+# Food order app
 
 Guided project developed during the course [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) from Udemy.
 
@@ -11,8 +11,9 @@ Guided project developed during the course [React - The Complete Guide (incl Hoo
 - Reactjs
   - useState
   - useEffect
-  - useRef
-  - forwardRef
   - useContext
   - useReducer
+  - forwardRef
+  - fragments
   - portals
+  - timeout
